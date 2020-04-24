@@ -1,0 +1,5 @@
+Honda	Civic	883-RS9	1996
+Doge	Neon	G74-LLC	1996
+Toyota	Camry	622-VRX	1985
+Ford	Mustang	AZUCAR	1966
+Chevrolet	Chevette	J43-SMB	1980	
